@@ -1,0 +1,48 @@
+[
+    {
+        "account": "Abbot Laboratories",
+        "id": 1234,
+        "status": "active",
+        "active_campaigns": 12,
+        "sponsored_jobs": 78,
+        "account_balance": 742.12,
+        "monthly_budget": 7400.00
+    },
+    {
+        "account": "ABM Industries",
+        "id": 1235,
+        "status": "active",
+        "active_campaigns": 22,
+        "sponsored_jobs": 108,
+        "account_balance": 1742.12,
+        "monthly_budget": 7300.00
+    },
+    {
+        "account": "Amazon",
+        "id": 1236,
+        "status": "suspended",
+        "active_campaigns": 15,
+        "sponsored_jobs": 78,
+        "account_balance": 1742.12,
+        "monthly_budget": 7400.00
+    },
+    {
+        "account": "Apple",
+        "id": 1237,
+        "status": "active",
+        "active_campaigns": 25,
+        "sponsored_jobs": 150,
+        "account_balance": 842.12,
+        "monthly_budget": 9500.00
+    },
+    {
+        "account": "ARAMARK",
+        "id": 1238,
+        "status": "active",
+        "active_campaigns": 32,
+        "sponsored_jobs": 378,
+        "account_balance": 12742.12,
+        "monthly_budget": 15000.00
+    }
+]
+
